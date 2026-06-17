@@ -17,7 +17,7 @@ Last updated: 2026-06-13
 | **Hippocratic AI** | $9/hr vs $90/hr nurse benchmark | **10M patient calls at 99.9% clinical safety (May 27 2026 via DigitalOcean partnership); Grove AI acquired Jan 2026; Life Sciences Division formed** | Outcome data; pharma/medtech vertical formation; ARR update |
 | **Artisan** | "Stop hiring humans" billboards | G2 churn complaints through 2025 | Independent ARR confirmation |
 | **Adept** | Already dissolved (Amazon, Jun 2024) | Reference data point | n/a (canonical death) |
-| **Vapi** | Enterprise voice-agent platform; 1B+ calls | **$50M Series B May 12 2026 (Peak XV, M12/Microsoft, Kleiner, Bessemer); $500M valuation; 10x enterprise ARR growth** | Voice-agent outcome data; ARR disclosure; enterprise churn |
+| **Vapi** | Enterprise voice-agent platform; 1B+ calls | **Grok (xAI) becomes default voice engine across 2.5M+ agents Jun 3 2026; $50M Series B May 12; $500M valuation** | Grok voice quality vs. competitors; enterprise ARR disclosure; xAI ecosystem deepening |
 
 ## Outcome-pricing operators
 
@@ -26,7 +26,7 @@ Last updated: 2026-06-13
 | **Intercom Fin** | $0.99/resolution; cleanest attribution methodology | Price floor moving toward $0.50? (held flat through mid-May 2026) |
 | **Zendesk Resolution Platform** | $1.50/$2.00 per AR (held flat through mid-May 2026) | Adoption velocity post-Relate 2025 |
 | **HubSpot Breeze** | Apr 2 2025 reprice down | More repricings? Customer Agent metrics |
-| **Salesforce Agentforce** | $2/conversation + $0.10/action + $125/seat; Agentforce Operations GA (Apr 29) | Q1 FY27 earnings May 27 — Agentforce ARR breakout and AELA adoption |
+| **Salesforce Agentforce** | $2/conversation + $0.10/action + $125/seat; Agentforce Operations GA (Apr 29); **$1.2B ARR (205% YoY), Q1 FY27 May 27** | Whether 50%+ existing-customer bookings mix signals upsell ceiling |
 | **Chargeflow** | 25% of recovered chargeback | Defending against in-house alternatives |
 | **EvenUp** | **Launched Pre-Litigation-as-a-Service (PLAAS) May 2026 — software vendor crossing into managed services** | Volume firms moving up-market; PLAAS attach rate |
 | **Crescendo** | Total Outcome Guarantee Oct 2025 | Whether competitors copy the guarantee |
@@ -41,7 +41,8 @@ Last updated: 2026-06-13
 | **Definite** | Bundled stack for startups | Conversion of free tier → paid |
 | **Cube.dev / Cube D3** | Picks-and-shovels semantic layer | Adoption velocity post-D3 GA |
 | **Judgment Labs** | Agent-evaluation infra; "did the agent actually succeed" measurement layer | **Added May 21 2026 — no public funding yet** | Funding, enterprise contracts, outcome-pricing partnerships |
-| **Tableau Pulse** | Defensive AI digest | Tableau Conference 2026 "agentic" claims (unverified — re-check) |
+| **Tableau Pulse** | Defensive AI digest | **Tableau Conference 2026: "Agentic Analytics Platform" launched — Agent Actions, Conversational Analytics, MCP support, Agent Health Monitor** | Whether Salesforce integration deepens agentic lock-in; competitive with Sigma/Hex |
+| **Google Antigravity** | Agent-first dev platform; Gemini CLI replacement; direct workflow-ownership vs. Salesforce/ServiceNow | **Antigravity 2.0 (I/O May 19): desktop app, CLI, SDK, Managed Agents API; Gemini CLI sunset June 18 2026; $100/mo AI Ultra plan** | Gemini CLI migration success rate; enterprise developer share vs. Claude Code and GitHub Copilot |
 
 ## SaaS incumbents — repricing watch
 
