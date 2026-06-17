@@ -26,7 +26,7 @@ Last updated: 2026-06-06
 | **Intercom Fin** | $0.99/resolution; cleanest attribution methodology | Price floor moving toward $0.50? (held flat through mid-May 2026) |
 | **Zendesk Resolution Platform** | $1.50/$2.00 per AR (held flat through mid-May 2026) | Adoption velocity post-Relate 2025 |
 | **HubSpot Breeze** | Apr 2 2025 reprice down | More repricings? Customer Agent metrics |
-| **Salesforce Agentforce** | $2/conversation + $0.10/action + $125/seat; Agentforce Operations GA (Apr 29) | Q1 FY27 earnings May 27 — Agentforce ARR breakout and AELA adoption |
+| **Salesforce Agentforce** | $2/conversation + $0.10/action + $125/seat; Agentforce Operations GA (Apr 29); **$1.2B ARR (205% YoY), Q1 FY27 May 27** | Whether 50%+ existing-customer bookings mix signals upsell ceiling |
 | **Chargeflow** | 25% of recovered chargeback | Defending against in-house alternatives |
 | **EvenUp** | **Launched Pre-Litigation-as-a-Service (PLAAS) May 2026 — software vendor crossing into managed services** | Volume firms moving up-market; PLAAS attach rate |
 | **Crescendo** | Total Outcome Guarantee Oct 2025 | Whether competitors copy the guarantee |
