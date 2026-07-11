@@ -1,7 +1,7 @@
 # Watchlist — Software Shift Tracker
 
 Rolling list of companies, signals, and narrative threads to diff week-over-week.
-Last updated: 2026-06-13
+Last updated: 2026-07-11
 
 ---
 
@@ -9,11 +9,11 @@ Last updated: 2026-06-13
 
 | Entity | Why we watch | Last known signal | Watch for |
 |---|---|---|---|
-| **Sierra** | Category leader; "software you hire" | **$950M raise May 4 2026; $15B+ valuation; $150M ARR (Feb)** | New logos, churn, IPO signals |
+| **Sierra** | Category leader; "software you hire" | **Sierra Summit (Jun/Jul 2026): Agent Studio 2.0 + Agent Data Platform launched; 40%+ Fortune 50; $150M ARR confirmed entering year 3** | Fortune 50 churn signals; ADP adoption |
 | **Decagon** | **$4.5B valuation (Jan 2026 Series D); 100+ enterprise clients; 80%+ deflection rate — watchlist valuation was stale** | Diversification of ARR base | Diversification of ARR base |
 | **11x.ai** | Cautionary tale; ARR/churn issues | **Blog activity May 12-14 2026; 562 employees Apr 30; operational, not winding down** | Renewals, recovery, or wind-down |
 | **Cognition / Devin** | Pricing collapsed $500 → $20/mo | **$1B raised at $25B valuation May 27 2026; $492M ARR disclosed; enterprise logos: Mercedes-Benz, NASA, Goldman Sachs, Santander; 10x enterprise usage growth in 2026** | Whether $492M ARR pace holds; enterprise churn signals |
-| **Harvey** | Cleanest of the cohort; $190M+ ARR Jan 2026 | **BonelliErede firmwide (Jun 11), Datasite integration (Jun 11), SS&C Intralinks (Jun 9); deal-data workflow layer emerging as moat** | Whether M&A workflow integration drives ARR step-up |
+| **Harvey** | Cleanest of the cohort; $190M+ ARR Jan 2026 | **$300M ARR mid-June 2026 (3× from $100M Aug 2025); open-sourced LAB legal-agent benchmark; Singapore + Chicago offices** | Whether $300M ARR pace holds; LAB becoming evaluation standard |
 | **Hippocratic AI** | $9/hr vs $90/hr nurse benchmark | **10M patient calls at 99.9% clinical safety (May 27 2026 via DigitalOcean partnership); Grove AI acquired Jan 2026; Life Sciences Division formed** | Outcome data; pharma/medtech vertical formation; ARR update |
 | **Artisan** | "Stop hiring humans" billboards | G2 churn complaints through 2025 | Independent ARR confirmation |
 | **Adept** | Already dissolved (Amazon, Jun 2024) | Reference data point | n/a (canonical death) |
@@ -23,7 +23,7 @@ Last updated: 2026-06-13
 
 | Entity | Move | Watch for |
 |---|---|---|
-| **Intercom Fin** | $0.99/resolution; cleanest attribution methodology | Price floor moving toward $0.50? (held flat through mid-May 2026) |
+| **Intercom Fin** | ~~$0.99/resolution~~ **ACQUIRED by Salesforce ($3.6B, Jun 15 2026) — no longer independent; pricing decisions now inside Agentforce roadmap** | How Salesforce bundles Fin pricing vs. standalone; Zendesk response |
 | **Zendesk Resolution Platform** | $1.50/$2.00 per AR (held flat through mid-May 2026) | Adoption velocity post-Relate 2025 |
 | **HubSpot Breeze** | Apr 2 2025 reprice down | More repricings? Customer Agent metrics |
 | **Salesforce Agentforce** | $2/conversation + $0.10/action + $125/seat; Agentforce Operations GA (Apr 29); **$1.2B ARR (205% YoY), Q1 FY27 May 27** | Whether 50%+ existing-customer bookings mix signals upsell ceiling |
@@ -41,6 +41,7 @@ Last updated: 2026-06-13
 | **Definite** | Bundled stack for startups | Conversion of free tier → paid |
 | **Cube.dev / Cube D3** | Picks-and-shovels semantic layer | Adoption velocity post-D3 GA |
 | **Judgment Labs** | Agent-evaluation infra; "did the agent actually succeed" measurement layer | **Added May 21 2026 — no public funding yet** | Funding, enterprise contracts, outcome-pricing partnerships |
+| **Patronus AI** | "Digital worlds" that stress-test AI agents pre-production; $50M Series B (Jun 25 2026, Greenfield led) | **Added Jul 11 2026; $70M total raised** | Enterprise contracts; whether "digital worlds" eval approach becomes standard |
 | **Tableau Pulse** | Defensive AI digest | **Tableau Conference 2026: "Agentic Analytics Platform" launched — Agent Actions, Conversational Analytics, MCP support, Agent Health Monitor** | Whether Salesforce integration deepens agentic lock-in; competitive with Sigma/Hex |
 | **Google Antigravity** | Agent-first dev platform; Gemini CLI replacement; direct workflow-ownership vs. Salesforce/ServiceNow | **Antigravity 2.0 (I/O May 19): desktop app, CLI, SDK, Managed Agents API; Gemini CLI sunset June 18 2026; $100/mo AI Ultra plan** | Gemini CLI migration success rate; enterprise developer share vs. Claude Code and GitHub Copilot |
 
@@ -67,24 +68,25 @@ Last updated: 2026-06-13
 | **Jon Yongfook (Bannerbear)** | ~$50K+ MRR, durable | Counter-example: not a wrapper, still growing |
 | **Granola** | $125M Series C, ~$1.5B valuation (Mar 2026) | Whether the meeting-notetaker category consolidates |
 | **Cluely** | $3M ARR mid-2025 | Durability; whether it's a fad |
-| **Bolt.new / Lovable / v0** | **Lovable $400M ARR (Mar 2026); BOLA security crisis May 2026 — 48-day exposure, ~5K apps leaking, poor initial response** | Enterprise adoption; security posture; vibe-coding durability |
+| **Bolt.new / Lovable / v0** | **Lovable $500M ARR run rate (Jun 2026); in talks to raise $300M at $13.2B valuation (Jul 8) — 2× Dec 2025 valuation; enterprise clients include Workday, Asana, Nvidia** | Whether $13.2B round closes; enterprise churn data |
 
 ## Narrative threads to watch
 
 - **Will any public SaaS company file a disclosure attributing seat contraction to AI?** Still zero — Atlassian Q3 FY26 (May 2026) showed 32% revenue growth and NRR >120%, contradicting the "SaaSpocalypse" narrative. Data Center seat-expansion moderation is not a contraction disclosure.
-- **Will outcome-pricing per-resolution floor move toward $0?** HubSpot moved to $0.50 (April 14 2026); Intercom $0.99 and Zendesk $1.50–$2.00 held flat through May 23. HubSpot undercut sets new market floor — watch for incumbent response.
+- **Outcome-pricing floor — thread reshaping:** Salesforce acquired Fin (Jun 15) for $3.6B; $0.99/resolution no longer an independent signal. Zendesk at $1.50–$2.00 per AR has not moved. The floor narrative shifts to: how will Salesforce bundle Fin pricing into Agentforce tiers? HubSpot at $0.50 remains the market floor independently.
 - **Cognition/Devin ARR — RESOLVED (May 27 2026):** $1B at $25B valuation; $492M ARR; enterprise logos: Mercedes-Benz, NASA, Goldman Sachs, Santander. Narrative thread closed.
 - **Will 11x.ai recover or wind down?** New "Mike" AI phone rep product shipped; #1 in Ramp AI-native GTM spend (May 2026); IBM Agent Connect integration (Feb 2026). Signals recovery, not wind-down. No independent ARR confirmation yet.
 - **Will Gartner's >40% agentic AI cancellation forecast track?** No new analyst follow-up in-window; watch IDC/Forrester Q3+Q4 2026.
-- **Will Microsoft Copilot move further into bundled M365 tiers?** M365 bundle price increase ~20% confirmed for Jul 1 2026; Copilot Business stays $21/seat; lock-in deadline June 30. Watch whether customers churn on renewal vs. lock in.
-- **Will the AI rollup / "buy-services-inject-AI" thesis produce marquee vehicles?** OpenAI Deployment Company formally launched May 11 2026 ($4B, TPG-led, Tomoro acquisition, ~150 FDEs from day one). Anthropic JV (Blackstone/Goldman, $1.5B) confirmed May 4. Both vehicles are live.
+- **Microsoft M365 bundling — July 1 increases live:** E3 $36→$39, Business Standard $12.50→$14, Copilot Business $18→$21. Copilot Chat bundled across nearly all affected suites. Lock-in deadline passed June 30. Watch for enterprise churn disclosures at renewal cycle (Q3 earnings season, Oct-Nov).
+- **AI rollup thesis — confirmed at public-company tier:** Salesforce acquired Fin for $3.6B (Jun 15); OpenAI DeployCo ($4B, May 11) and Anthropic JV ($1.5B, May 4) are live. The "buy-services-inject-AI" thesis is now validated at all three tiers: model lab, startup, and Tier-1 incumbent. Thread semi-resolved; watch for next Tier-1 M&A move.
 - **Will GEO (Generative Engine Optimization) develop measurable attribution?** Narrative-level only; no discrete in-window event.
-- **Will Cursor's lead survive Claude Code maturity?** SpaceX IPO happened June 12 (SPCX +19%, $1.77T); Cursor acquisition clock is running (~July 12 target); regulatory scrutiny is the only risk. Claude Code and GitHub Copilot are primary beneficiaries of enterprise buyer uncertainty during transition. Karpathy (Anthropic, May 19) strengthens Claude roadmap.
+- **Cursor acquisition update:** SpaceX-Cursor $60B all-stock deal announced June 16 and SEC 8-K filed; Q3 2026 close expected; $4B termination fee if antitrust blocks. Largest VC-backed acquisition in history. Claude Code and GitHub Copilot remain primary enterprise uncertainty beneficiaries during transition period.
 
 ## Add candidates (to vet next week)
 
-*None — Google Antigravity promoted to main watchlist (SaaS incumbents section) this week.*
+*None — Patronus AI promoted to Embedded AI Analytics section this week.*
 
 ## Removed (not relevant or covered)
 
 - **Mosaic** — acquired by HiBob (Feb 2025; now "Bob Finance"). No longer an independent embedded-analytics/FP&A signal; kept only as a reference point.
+- **Intercom Fin** — acquired by Salesforce for $3.6B (June 15, 2026); pricing decisions now inside Agentforce roadmap; removed as independent outcome-pricing signal.
