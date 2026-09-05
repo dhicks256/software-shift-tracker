@@ -1,7 +1,7 @@
 # Watchlist — Software Shift Tracker
 
 Rolling list of companies, signals, and narrative threads to diff week-over-week.
-Last updated: 2026-06-13
+Last updated: 2026-09-05
 
 ---
 
@@ -9,13 +9,15 @@ Last updated: 2026-06-13
 
 | Entity | Why we watch | Last known signal | Watch for |
 |---|---|---|---|
-| **Sierra** | Category leader; "software you hire" | **$950M raise May 4 2026; $15B+ valuation; $150M ARR (Feb)** | New logos, churn, IPO signals |
-| **Decagon** | **$4.5B valuation (Jan 2026 Series D); 100+ enterprise clients; 80%+ deflection rate — watchlist valuation was stale** | Diversification of ARR base | Diversification of ARR base |
+| **Sierra** | Category leader; "software you hire" | **$200M ARR (Sep 2026); CFO Julia Brau Donnelly announced Aug 31; Seoul office opening; up from $150M+ at May raise** | IPO prep signals; CFO hire confirms trajectory |
+| **Decagon** | **$100M ARR (Jul 2026), up from $44M end of 2025 — fastest ramp in AaaS cohort after Cognition; $4.5B valuation** | Diversification of ARR base | Diversification of ARR base |
 | **11x.ai** | Cautionary tale; ARR/churn issues | **Blog activity May 12-14 2026; 562 employees Apr 30; operational, not winding down** | Renewals, recovery, or wind-down |
-| **Cognition / Devin** | Pricing collapsed $500 → $20/mo | **$1B raised at $25B valuation May 27 2026; $492M ARR disclosed; enterprise logos: Mercedes-Benz, NASA, Goldman Sachs, Santander; 10x enterprise usage growth in 2026** | Whether $492M ARR pace holds; enterprise churn signals |
-| **Harvey** | Cleanest of the cohort; $190M+ ARR Jan 2026 | **BonelliErede firmwide (Jun 11), Datasite integration (Jun 11), SS&C Intralinks (Jun 9); deal-data workflow layer emerging as moat** | Whether M&A workflow integration drives ARR step-up |
+| **Cognition / Devin** | Pricing collapsed $500 → $20/mo | **Jul 2026 blitz: SWE-1.7 (Jul 8), Security Swarm (Jul 1, 72% CVE detection), TierZero acquisition (Jul 20); $492M ARR base** | Whether security and incident-detection expands ARR; enterprise churn signals |
+| **Harvey** | Cleanest of the cohort; $190M+ ARR Jan 2026 | **$200M+ ARR; international expansion: Paris (May), Singapore (Jun), Chicago (Jul 2026); 1,500+ customers, 50% Am Law 100** | Whether international ARR diversification offsets US concentration |
 | **Hippocratic AI** | $9/hr vs $90/hr nurse benchmark | **10M patient calls at 99.9% clinical safety (May 27 2026 via DigitalOcean partnership); Grove AI acquired Jan 2026; Life Sciences Division formed** | Outcome data; pharma/medtech vertical formation; ARR update |
 | **Artisan** | "Stop hiring humans" billboards | G2 churn complaints through 2025 | Independent ARR confirmation |
+| **Clay** | AI GTM agent — sales prospecting, enrichment, outbound; top-cited B2B agent 2026 | **Added Sep 5 2026 — consistently top-ranked in B2B AI agent surveys** | ARR disclosure; pricing model evolution |
+| **Crosby** | AI law firm; per-contract outcome pricing; 130+ clients incl. Cursor, Cognition | **Added Sep 5 2026 — demonstrates outcomes-priced legal vertical** | ARR, client expansion, competitive response from Harvey |
 | **Adept** | Already dissolved (Amazon, Jun 2024) | Reference data point | n/a (canonical death) |
 | **Vapi** | Enterprise voice-agent platform; 1B+ calls | **Grok (xAI) becomes default voice engine across 2.5M+ agents Jun 3 2026; $50M Series B May 12; $500M valuation** | Grok voice quality vs. competitors; enterprise ARR disclosure; xAI ecosystem deepening |
 
@@ -48,13 +50,13 @@ Last updated: 2026-06-13
 
 | Entity | Move | Watch for |
 |---|---|---|
-| **Salesforce** | **Q1 FY27: Agentforce ARR $1.2B (205% YoY); Agentforce + Data 360 combined ARR $3.4B; 3.8B Agentic Work Units (+111% QoQ); revenue $11.13B (+13%); FY27 guidance raised to $45.9–46.2B** | Q2 FY27 earnings — whether $1.2B Agentforce ARR pace holds; AELA adoption |
-| **ServiceNow** | **Autonomous Workforce expanded at Knowledge 2026 (May 5 2026) — 4 new AI-specialist categories** | Pro Plus uplift sustainability; agent-orchestration positioning |
-| **Atlassian** | **Q3 FY26: revenue +32% YoY to $1.8B; NRR >120% and ticking up; Rovo AI credits +20% MoM; Data Center seat expansion moderating (cloud migration, not churn)** | Consumption pricing rollout; whether Rovo drives ARR uplift |
+| **Salesforce** | **Q2 FY27 (Aug 26): Agentforce ARR $1.5B (+240% YoY); 7B AWUs; Claudeforce (Anthropic deep integration) launched with 37 sales skills; $300M token commitment; FY27 guidance raised to $46.1–46.4B** | Whether Claudeforce drives Agentforce ARR beyond $2B; Q3 FY27 earnings |
+| **ServiceNow** | **Q2 2026 (Jul 22): Revenue $3.99B (+24%); AI ACV >$1B; agentic deployments 9x in 9 months; Q3 guidance $3.98B (+20.5%)** | Pro Plus uplift sustainability; whether AI ACV converts to durable ARR |
+| **Atlassian** | **Q4 FY26 (Aug 6): Revenue $1.77B (+28%); ARR $6.6B (+23%); Rovo 80%+ Fortune 500; Rovo-assisted actions +50% QoQ; Rovo adopters grow ARR 2x faster than non-adopters** | Whether Rovo consumption drives ARR re-acceleration; pricing rollout |
 | **Google Antigravity** | **Antigravity 2.0 launched I/O May 19; desktop app, CLI, SDK, managed execution, $100/mo AI Ultra plan; Gemini CLI/Code Assist IDE sunset June 18 2026** | Enterprise Gemini Enterprise Agent Platform adoption; pricing vs. Claude Code/GitHub Copilot |
 | **Gong** | **ARR topped $500M, 55%+ YoY, 10th straight accelerating quarter (May 12 2026)** | Whether AI-native acceleration holds |
 | **HubSpot** | **Q1 2026: Customer Agent 70% resolution rate (up from 65%); Data Agent +122% QoQ; 9,000+ Customer Agent customers; revenue +23% YoY** | Whether Intercom/Zendesk respond to $0.50 pricing undercut |
-| **Snowflake** | **Q1 FY27: product revenue +34% YoY to $1.33B (accelerating from +30%); Snowflake Intelligence accounts doubled QoQ; NRR 126%; $6B AWS 5-year contract** | Whether Intelligence converts into durable AI workload ARR |
+| **Snowflake** | **Q2 CY26 (Sep 3): Product revenue $1.49B (+37% YoY, re-accelerating from +34%); non-GAAP EPS beat 39%; shares +22%; AI workloads confirmed as structural driver** | Whether product revenue sustains 35%+ growth; NRR trajectory |
 | **Workday** | **Agent Passport launched June 2 2026 (tests/monitors every AI agent pre/post-production via MCP; Cisco launch partner); Developer Agent + Agent-Ready Tools shipped; GA H2 2026** | Whether governance wedge drives upsell vs. ServiceNow |
 
 ## Solopreneur / micro-SaaS portfolio
@@ -79,12 +81,13 @@ Last updated: 2026-06-13
 - **Will Microsoft Copilot move further into bundled M365 tiers?** M365 bundle price increase ~20% confirmed for Jul 1 2026; Copilot Business stays $21/seat; lock-in deadline June 30. Watch whether customers churn on renewal vs. lock in.
 - **Will the AI rollup / "buy-services-inject-AI" thesis produce marquee vehicles?** OpenAI Deployment Company formally launched May 11 2026 ($4B, TPG-led, Tomoro acquisition, ~150 FDEs from day one). Anthropic JV (Blackstone/Goldman, $1.5B) confirmed May 4. Both vehicles are live.
 - **Will GEO (Generative Engine Optimization) develop measurable attribution?** Narrative-level only; no discrete in-window event.
-- **Will Cursor's lead survive Claude Code maturity?** SpaceX IPO happened June 12 (SPCX +19%, $1.77T); Cursor acquisition clock is running (~July 12 target); regulatory scrutiny is the only risk. Claude Code and GitHub Copilot are primary beneficiaries of enterprise buyer uncertainty during transition. Karpathy (Anthropic, May 19) strengthens Claude roadmap.
+- **Cursor/SpaceX — RESOLVED (Aug 14 2026):** SpaceX closed $60B all-stock acquisition; Cursor folded into SpaceXAI division. Claude Code and GitHub Copilot are now the primary independent AI coding tools. Enterprise uncertainty during SpaceXAI integration is ongoing.
 
 ## Add candidates (to vet next week)
 
-*None — Google Antigravity promoted to main watchlist (SaaS incumbents section) this week.*
+*None pending — Clay and Crosby added to AaaS/outcome-pricing sections this week.*
 
 ## Removed (not relevant or covered)
 
 - **Mosaic** — acquired by HiBob (Feb 2025; now "Bob Finance"). No longer an independent embedded-analytics/FP&A signal; kept only as a reference point.
+- **Cursor** — SpaceX closed $60B all-stock acquisition Aug 14 2026. Folded into SpaceXAI division; no longer an independent signal.
